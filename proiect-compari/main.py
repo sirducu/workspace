@@ -41,5 +41,5 @@ for site in sites:
     dictionar['site'].append(site)
     nr += 1
 
-with open(f"{path}/anunturi.json", "a") as f:
+with open(f"{path}/anunturi.json", "w") as f:
     json.dump(dictionar, f)
