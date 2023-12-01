@@ -134,3 +134,4 @@ audio/test2.py
 olx api/test.py
 olx api/__pycache__/token.cpython-310.pyc
 tiktokv/main.py
+curl_facebook
